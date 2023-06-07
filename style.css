@@ -139,7 +139,7 @@ a {
   align-items: center;
   justify-content: space-between;
   padding-top: 85px;
-  /* position: relative; */
+  position: relative;
 }
 .hero-left-column {
   flex-basis: 550px;
