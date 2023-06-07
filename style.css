@@ -261,7 +261,7 @@ a {
     margin-top: 20px;
   }
   .footer {
-    bottom: 115px;
+    display: block;
   }
   .footer-social ul li {
     margin-right: 15px;
@@ -278,9 +278,9 @@ a {
 }
 
 @media (max-width: 380px) {
-  .footer {
+  /* .footer {
     bottom: 5px;
-  }
+  } */
 }
 /* @media only screen and (max-width: 1920px) and (min-width: 1600px) {
   .hero {
