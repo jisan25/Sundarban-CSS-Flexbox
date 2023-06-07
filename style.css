@@ -277,8 +277,13 @@ a {
   }
 }
 
-@media only screen and (max-width: 1920px) and (min-width: 1600px) {
+@media (max-width: 380px) {
+  .footer {
+    bottom: 5px;
+  }
+}
+/* @media only screen and (max-width: 1920px) and (min-width: 1600px) {
   .hero {
     top: 210px;
   }
-}
+} */
