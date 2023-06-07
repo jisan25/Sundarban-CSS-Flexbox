@@ -216,6 +216,9 @@ a {
 */
 
 @media (max-width: 768px) {
+  body {
+    background-repeat: no-repeat;
+  }
   .navbar .logo a {
     font-size: 1.35rem;
   }
@@ -262,6 +265,9 @@ a {
   }
   .footer {
     display: block;
+    position: unset;
+    background: rgba(2, 72, 90, 0.82);
+    padding-top: 20px;
   }
   .footer-social ul li {
     margin-right: 15px;
