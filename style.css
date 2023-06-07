@@ -139,6 +139,7 @@ a {
   align-items: center;
   justify-content: space-between;
   padding-top: 85px;
+  /* position: relative; */
 }
 .hero-left-column {
   flex-basis: 550px;
@@ -267,6 +268,7 @@ a {
     background: rgba(2, 72, 90, 0.82);
     height: 100px;
     padding: 20px 0px;
+    bottom: 10px;
   }
 
   .footer-social ul li {
