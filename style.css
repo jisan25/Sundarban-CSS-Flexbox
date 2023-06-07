@@ -292,8 +292,8 @@ a {
     bottom: 5px;
   } */
 }
-/* @media only screen and (max-width: 1920px) and (min-width: 1600px) {
+@media only screen and (max-width: 1920px) and (min-width: 1700px) {
   .hero {
     top: 210px;
   }
-} */
+}
